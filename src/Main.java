@@ -10,7 +10,7 @@ public class Main {
         System.out.println("It's developer tea time!");
     }
     public static void main(String[] args) {
-
+        announceDeveloperTeaTime();
     }
 
 }
